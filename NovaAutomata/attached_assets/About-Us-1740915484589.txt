@@ -1,0 +1,270 @@
+NOVAAUTOMATA INNOVATIONS PVT. LTD.
+1. About us
+NovaAutomation Innovations Pvt. Ltd. (NAIPL) is a Startup founded by a small group of
+researchers and AI Engineers who dream of creating a company which can produce
+indigenous AI products/services not only for India but the entire world. The core team has
+both research and industry expertise and all of them hail from India’s prestigious IISc and
+IIT’s. All the team members have a great academic and industry track record and have
+several accolades during their academic and career paths for their problem-solving skills.
+These accomplishments have emboldened their faith in building a global AI company from
+India. The team is very enthusiastic to take leverage of big data available across various
+industries and harness the power of artificial intelligence to solve complex problems and
+drive positive change across industries. We believe in pushing the boundaries of what's
+possible, utilizing AI as a catalyst for innovation and advancement. Through our work, we
+aim to contribute to a future where intelligent technologies enhance Innovation, efficiency,
+decision-making, and overall human experience.
+2. Existing Technology and Prior Experience
+Novaautomata team has excellent capabilities in AI/ML technologies, especially in Natural
+Language Processing (NLP) and Computer Vision (CV). At Novaautomata, we specialize in
+leveraging these advanced technologies in NLP and CV to transform and elevate organizational
+productivity. Our expertise in these fields allows us to deliver tailored AI solutions that meet the
+unique demands of various industries, ensuring significant enhancements in efficiency and
+operational capabilities.
+2A. Natural Language Processing (NLP) expertise and solutions
+Our proficiency in Generative AI architectures, including state-of-the-art Large Language Models
+(LLMs), enables us to integrate sophisticated language processing capabilities into your
+organization. These models can automate a wide range of tasks, from data-entry, drafting and
+summarizing documents to generating relevant content, significantly boosting productivity. By
+automating repetitive and labor-intensive tasks, we help your team focus on strategic and creative
+initiatives, driving innovation and efficiency. Additionally, we utilize the latest Retrieval-Augmented
+Generation (RAG) architecture to handle and process organization-specific documents.
+In this section we explain LLMs and RAG briefly and how we leverage both these technologies is
+brought out, followed by the uniqueness of our solutions based on this technology.
+Advanced AI Technologies: Large Language Models (LLMs) and Retrieval-Augmented
+Generation (RAG)
+Large Language Models (LLMs) Large Language Models (LLMs) are advanced neural
+networks designed to understand, generate, and interact with human language at an
+unprecedented scale. Trained on billions of parameters and vast amounts of text data, these
+models exhibit a deep understanding of language nuances, context, and semantics.
+NLP Solutions and Key aspects
+Our technology combines the strengths of LLMs and RAG to facilitate efficient
+information retrieval and generation, offering deep insights tailored to specific domains.
+Organizations benefit from automated document management systems that retrieve
+relevant information, generate summaries, and provide actionable insights, thus
+streamlining manual processes. Additionally, the combined system enables advanced
+analytics and decision support by analyzing large document volumes and presenting
+key data points for informed decision-making.
+The key aspects of our solution are:
+We propose a holistic solution which consists of the following:
+I. Digitization of all the data (Structured & Unstructured) using AI at various levels.
+II. Imparting the right structure to the entire data flow using concepts of ontology or
+knowledge graph
+III. Building AI models at individual units and at the overall system level.
+1. Digitization of all data
+Our proficiency in Generative AI architectures, including state-of-the-art Large Language
+Models (LLMs), enables us to integrate sophisticated language processing capabilities
+into your organization. These models can automate the entire digitization irrespective of
+the kind of format its fed for e.g., scanned documents, PDFs, handwritten notes, excel
+sheets etc., Additionally, we utilize the latest Retrieval-Augmented Generation (RAG)
+architecture to handle and process organization-specific documents. All these models are
+Standalone and do not use any external APIs for its working and hence privacy and
+security is not compromised in any manner.
+Figure: High-Level architecture diagram for the proposed automation
+2. Imparting the right structure
+The structure and the interdependencies of the organization has to be understood at
+different levels using the concepts of ontology or knowledge graphs. Ontology is a
+structured framework to represent knowledge in a specific domain. It defines the types of
+entities, relationships, and constraints that exist in that domain. With this type of structure,
+we can create the right database structure and hence the data flow which would enable
+use building the ML models at various levels of the organization. This exercise would also
+make the database responsive to any kind of complex queries.
+Figure. Representative diagram showing the ontology creation for the
+organization
+We offer robust solutions for retrieving relevant information from extensive documents, even
+those spanning hundreds of pages. Our technology can efficiently extract and organize key
+data, making it easily accessible and actionable.
+Our capabilities extend to analyzing large collections of documents, such as invoices, and
+providing valuable analytics for the organization. This helps in uncovering insights and
+trends that can drive business decisions.
+3. Building AI agents at the different levels
+ML based prediction models will be built at various unit levels. The above ontology
+diagram would help is in building the ML models at various important nodes and also
+identifying the right features for these models. Finally, a prediction model at the system
+level will be built using all the data from the various units.
+Figure. A Federal way of imparting intelligence at different levels for more control
+on the reliability modeling
+4. Interpretability of the results
+During the development of these models, we will keep in mind the interpretability of the
+results and provide insights which would be helpful to the end user. Highly insightful
+dashboard with vital analytics would be provided for the user to view any data at any time.
+5. Secure and Integrative Solutions
+• Our NLP solutions are highly secure, as they are designed to operate independently
+without interacting with or using APIs from third-party software. This ensures the utmost
+privacy and security for your sensitive data.
+• We offer the flexibility to integrate information extraction capabilities with any proprietary
+software that your organization uses, ensuring seamless and efficient workflows.
+2B. Computer Vision (CV) Expertise and Solutions
+Our team boasts of expertise in cutting-edge computer vision technologies,
+encompassing advanced object detection models and vision transformers. In this section
+we describe briefly the technologies we use for the solutions we offer, followed by the
+details of the solutions in the domain of security, surveillance and quality control.
+CV technologies for detection, tracking and segmentation
+Our team excels in the domain of computer vision, leveraging cutting-edge technologies
+for object detection, tracking, and segmentation. We harness a diverse range of advanced
+models, including You Only Look Once (YOLO), Single Shot MultiBox Detector (SSD),
+and Faster R-CNN, each tailored to deliver high accuracy and efficiency in real-time
+applications such as security surveillance and autonomous driving. These models offer
+unparalleled precision in object localization, thanks to their unified architecture, multi-
+scale feature maps, and region proposal networks. Moreover, we stay at the forefront of
+innovation by integrating Vision Transformers (ViT), a groundbreaking approach that
+revolutionizes image analysis. Vision Transformers, inspired by their success in natural
+language processing, excel in capturing long-range dependencies and contextual
+information within images. With their self-attention mechanism and scalability, ViTs offer
+superior performance in tasks like image classification and segmentation, making them
+indispensable tools for advanced computer vision applications.
+CV based solutions
+Our cutting-edge computer vision solutions provide advanced security, surveillance, and
+quality control capabilities. From facial recognition for access control to AI-driven real-
+time quality monitoring, our systems ensure precision and efficiency in safeguarding your
+assets and maintaining the highest standards of quality.
+CV for Security and Surveillance
+In the realm of security and surveillance, our computer vision technologies offer advanced
+capabilities for monitoring and protecting your assets:
+Facial Recognition Systems: These systems can be used for access control, ensuring
+that only authorized personnel can enter restricted areas. By analyzing facial features,
+the system can accurately identify individuals and grant or deny access based on
+predefined permissions.
+• Anomaly Detection Systems: Using advanced algorithms, these systems can
+continuously monitor surveillance footage and automatically detect unusual
+activities or behaviors, such as loitering, trespassing, or unattended objects. Alerts
+are generated in real-time, allowing security personnel to respond promptly.
+• Behavior Analysis Algorithms: These algorithms can analyze patterns in
+surveillance footage to identify suspicious or unusual behavior, such as someone
+attempting to tamper with equipment or engaging in potentially dangerous
+activities.
+CV for Quality Control
+In the realm of quality control, our computer vision technologies ensure that production
+processes meet the highest standards. Our solutions can detect defects, anomalies,
+and inconsistencies in products with unparalleled accuracy.
+• Automated Visual Inspection Systems: These systems can be deployed on
+assembly lines to inspect products for defects such as cracks, deformations, or
+incorrect assembly. High-resolution cameras capture images of each product,
+and advanced image processing algorithms analyze these images to detect any
+flaws.
+• AI-Driven Real-Time Quality Monitoring: By integrating AI with visual
+inspection systems, we can provide real-time monitoring of product quality. This
+system can identify and flag deviations from quality standards as products move
+along the production line, ensuring immediate corrective actions.
+• Image Recognition Tools: These tools can be used to ensure consistency and
+compliance with quality standards. For example, in the food industry, image
+recognition can verify that packaging is correct and that products meet visual
+quality criteria, such as color and shape
+To summarize, the key benefits of choosing NAIPL:
+• NAIPL’s team has experience in designing and implementing several ML
+architectures (shallow learning, Transformers, GAN’s, VAE’s, CNN’s etc.,) for
+various diverse domains including, manufacturing, HealthCare, BFSI (Banking,
+Financial Services and Insurance), Smart Cities.
+• NAIPL’s team is adept at tailoring custom made ML models, contextual to a
+particular data and domain.
+• NAIPL’s team not only holds the expertise in implementing AI/ML models but also
+optimizing the performance of these models on the hardware by using parallel
+processing and multi-threading techniques.
+• Being from a research background the team is well acquainted with research
+expertise and experienced in technical writing with several publications.
+• Separate software team with experienced professionals who can package the AI
+product as a SaaS or Web application with a great user interface.
+3. Projects handled by the team members in the past
+Automation of New Insurance policy setup
+Structured and Unstructured applications and attachments from emails consisting of
+insurance applications are collected and the required insurance policy as a new
+application creation is automated. Several text extraction and natural language
+processing tools are used to perform this task.
+Sentiment analysis using BERT finetuned on custom dataset
+Finetuning BERT (Bidirectional Encoder Representations from Transformers) on a
+custom dataset involving taking the pre-trained BERT model and training it further on a
+specific dataset that is tailored for sentiment analysis. This was implemented for finding
+out sentiment analysis of reviews on e-commerce websites.
+Trigger word detection using LSTMs with attention
+Detect a specific trigger word or phrase that initiates the listening and processing of voice
+commands in a voice-activated assistant. The technology was built for use in devices like
+smart speakers, virtual assistants, and other voice-activated systems.
+Visual Document Understanding
+Developed end-to-end deep learning pipelines for information extraction from noisy
+scanned financial documents using transformers and CNN based architectures, in
+Pytorch. – Developed an image processing technique (inspired from Chargrid) which is
+more optimized and improved the accuracy.
+Object detection using single stage and two stage CNN based detectors (YOLO,
+Faster RCNN)
+This technology was implemented to automate the process of inventory tracking and
+management in a retail environment using object detection.
+Facial recognition for attendance monitoring system.
+This FR technology was implemented for an automatic attendance and authorization
+system for a firm.
+Offline Handwritten Text Recognition
+Deep learning solution focused on recognition of semi-legible and illegible handwriting,
+developed in TensorFlow. This was developed for the Banking sector to automatically
+read data on cheques.
+Graphical User Interface (GUI) for GT (Ground Truth) Correction
+Studied and experimented with multiple techniques that can help humans analyze long
+sequences of text without error. – Implemented the selected techniques in a GUI. – This
+led to ∼30x speedup in GT correction and verification.
+Synthetic Data Generation
+The pipeline can generate synthetic data for any structured or semi-structured documents
+(both handwritten and machine printed) with minimal manual annotation.
+Semi-Automated Labelling
+Most of the training datasets have thousands of images which need to be manually
+annotated. The solution reduces the annotation time by up to 90%.
+Decision system design for UAV Scheduling
+Developed a robust software architecture and decision-making system or tasks to be
+accomplished by an unmanned aerial vehicle (UAV).
+3. Currently Ongoing Projects:
+Integrated Planning and Scheduling Application (IPSA):
+IPSA is a web application to evaluate and optimize cost of implementation of electric bus
+systems for a state or city. The web app will provide an interface for users to create
+projects and evaluate various scenarios. Based on the user inputs, the app will advise the
+users in selection of depot and bus schedules for electrification. Further, the application
+will assess feasibility of e-bus operations for a specific bus model, selected schedules
+and further optimize schedules for buses and the chargers based on the trip timetable or
+user inputs. The app will estimate the inventory required and the cost of implementation
+of the e-bus systems. Several Data science and Optimization algorithms are employed to
+build this tool which is further integrated in a software with frontend as ReactJS, backend
+as Django and PostgreSQL as the database system.
+Client: GiZ & World Resources Institute
+DAKSH (Digitization, Analytics Know-how and Scheduling)
+Developing a decision support tool for public transport authorities and operators to digitize
+and optimize public transport planning and scheduling for E-buses.
+Client: Transit Intelligence
+ERP software (Contract management)
+Developing a contract management software for digitization, operations management,
+performance evaluation and payment assesment for Bengaluru metro transportation
+corporation (BMTC) and EV bus contractors of Bengaluru City.
+Client: Transit Intelligence
+Gene Alchemy
+Gene Alchemy is a tool designed to assist biomedical and Pharma companies to assist
+in biomarker identification, drug discovery, clinical data management using machine
+learning. Presently the application has modules to explore and analyzing gene expression
+data related to various types of cancer and clinical data. This application aims of
+empowering users to gain insights into the complex molecular profiles associated with
+different types of cancer, facilitating informed decision-making by biomarker identification,
+predicting survival status etc., Additionally, the module also helps in data analytics of
+clinical data.
+Client: Live100
+4. AI Team
+Dr. Rajasekhar Bangaru, PhD, Indian Institute of Science
+Dr. Bibin Francis, PhD, Indian Institute of Science
+Prateek Singh, BS, Indian Institute of Science; Masters, Aritificial Intelligence, IIT KGP
+Kaushik Kukadiya, MTech, Artificial Intelligence, Indian Institute of Science
+Karmanya Beniwal, Masters, Smart Manufacturing, Indian Institute of Science
+Harshit Dubey, BS, Indian institute of Science
+5. Software Team
+Rohit Katariya, BTech, Computer Science, 6+ years of Software engineering
+Manjunath, BTech, Computer Science, 6+ years of Software engineering
+Tejaswini N, MCA, Full Stack Developer
+Navneetha N, MCA, Front End Developer
+Kiran, BCA, Designer
+6. Interns
+Partha Guntur, Computer Science & AI Engineering
+Kamalesh, Computer Science & AI Engineering
+Rohita P, AI Engineering
+Manu Vahan, Computer Science & AI Engineering
+Raman Luhach, Computer Science & AI Engineering
+Sinduja, MSc, Bioinformatics & AI
+Subalakshmi A T, MSc, Bioinformatics & AI
+7. Advisors
+Prof. Abhik Choudhary, Indian Institute of Science
+Prof. Gandham Phanikumar, Indian Institute of Technology, Madras
+Prof. Rajendra Munian, Indian Institute of Technology, Ropar
+Dr. Rashmi Patel, M.B.B.S, M.S, Surgeon
+8. Collaborating Organizations
+Sree Ramachandra Medical College, Chennai
+Rishihood University, Sonipat
