@@ -28,7 +28,7 @@ function AppRouter() {
           <Router>
             <PageTransition>
               <Switch>
-                <Route path="/Aishwaryanova">
+                <Route path="/">
                   {() => {
                     console.log("Rendering Home");
                     return <Home />;
